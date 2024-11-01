@@ -14,6 +14,7 @@
 		<outline text="Antonio’s Substack" title="Antonio’s Substack" description="" type="rss" version="RSS" htmlUrl="https://anmonteiro.substack.com/" xmlUrl="https://anmonteiro.substack.com/feed"/>
 		<outline text="Architecture Notes" title="Architecture Notes" description="" type="rss" version="RSS" htmlUrl="https://architecturenotes.co/" xmlUrl="https://architecturenotes.co/rss/"/>
 		<outline text="ByteByteGo" title="ByteByteGo" description="" type="rss" version="RSS" htmlUrl="https://blog.bytebytego.com/" xmlUrl="https://blog.bytebytego.com/feed"/>
+		<outline text="Coding Challenges" title="Coding Challenges" description="" type="rss" version="RSS" htmlUrl="https://codingchallenges.substack.com/" xmlUrl="https://codingchallenges.substack.com/feed"/>
 		<outline text="NetNewsWire" title="NetNewsWire" description="" type="rss" version="RSS" htmlUrl="https://netnewswire.blog/" xmlUrl="https://netnewswire.blog/feed.json"/>
 		<outline text="Snowflair" title="Snowflair" description="" type="rss" version="RSS" htmlUrl="https://lewisg.substack.com/" xmlUrl="https://lewisg.substack.com/feed"/>
 		<outline text="The Palindrome" title="The Palindrome" description="" type="rss" version="RSS" htmlUrl="https://thepalindrome.org/" xmlUrl="https://thepalindrome.org/feed"/>
