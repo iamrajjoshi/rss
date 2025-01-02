@@ -6,7 +6,6 @@
 	</head>
 <body>
 	<outline text="News" title="News">
-		<outline text="Ars Technica - All content" title="Ars Technica - All content" description="" type="rss" version="RSS" htmlUrl="https://arstechnica.com/" xmlUrl="https://feeds.arstechnica.com/arstechnica/index"/>
 		<outline text="Hacker News 200" title="Hacker News 200" description="" type="rss" version="RSS" htmlUrl="https://news.ycombinator.com/newest" xmlUrl="https://hnrss.org/newest?points=200"/>
 		<outline text="Quanta Magazine" title="Quanta Magazine" description="" type="rss" version="RSS" htmlUrl="https://www.quantamagazine.org/" xmlUrl="https://api.quantamagazine.org/feed/"/>
 		<outline text="xkcd.com" title="xkcd.com" description="" type="rss" version="RSS" htmlUrl="https://xkcd.com/" xmlUrl="https://xkcd.com/atom.xml"/>
@@ -14,7 +13,7 @@
 	<outline text="Newsletter" title="Newsletter">
 		<outline text="Antonio’s Substack" title="Antonio’s Substack" description="" type="rss" version="RSS" htmlUrl="https://anmonteiro.substack.com/" xmlUrl="https://anmonteiro.substack.com/feed"/>
 		<outline text="Architecture Notes" title="Architecture Notes" description="" type="rss" version="RSS" htmlUrl="https://architecturenotes.co/" xmlUrl="https://architecturenotes.co/rss/"/>
-		<outline text="ByteByteGo" title="ByteByteGo" description="" type="rss" version="RSS" htmlUrl="https://blog.bytebytego.com/" xmlUrl="https://blog.bytebytego.com/feed"/>
+		<outline text="ByteByteGo Newsletter" title="ByteByteGo Newsletter" description="" type="rss" version="RSS" htmlUrl="https://blog.bytebytego.com/" xmlUrl="https://blog.bytebytego.com/feed"/>
 		<outline text="Coding Challenges" title="Coding Challenges" description="" type="rss" version="RSS" htmlUrl="https://codingchallenges.substack.com/" xmlUrl="https://codingchallenges.substack.com/feed"/>
 		<outline text="NetNewsWire" title="NetNewsWire" description="" type="rss" version="RSS" htmlUrl="https://netnewswire.blog/" xmlUrl="https://netnewswire.blog/feed.json"/>
 		<outline text="Snowflair" title="Snowflair" description="" type="rss" version="RSS" htmlUrl="https://lewisg.substack.com/" xmlUrl="https://lewisg.substack.com/feed"/>
@@ -37,7 +36,6 @@
 		<outline text="julian.digital" title="julian.digital" description="" type="rss" version="RSS" htmlUrl="https://julian.digital/" xmlUrl="https://julian.digital/feed/"/>
 		<outline text="Ken Shirriff's blog" title="Ken Shirriff's blog" description="" type="rss" version="RSS" htmlUrl="http://www.righto.com/" xmlUrl="https://www.righto.com/feeds/posts/default"/>
 		<outline text="Lee Byron / til" title="Lee Byron / til" description="" type="rss" version="RSS" htmlUrl="https://leebyron.com/til/" xmlUrl="https://leebyron.com/til/feed.xml"/>
-		<outline text="Maggie Appleton" title="Maggie Appleton" description="" type="rss" version="RSS" htmlUrl="https://maggieappleton.com/" xmlUrl="https://maggieappleton.com/rss.xml"/>
 		<outline text="Marcus' Blog" title="Marcus' Blog" description="" type="rss" version="RSS" htmlUrl="https://mbuffett.com/posts/" xmlUrl="https://mbuffett.com/posts/index.xml"/>
 		<outline text="Notes on software development" title="Notes on software development" description="" type="rss" version="RSS" htmlUrl="http://notes.eatonphil.com/" xmlUrl="https://notes.eatonphil.com/rss.xml"/>
 		<outline text="Stephen Wolfram Writings" title="Stephen Wolfram Writings" description="" type="rss" version="RSS" htmlUrl="https://writings.stephenwolfram.com/" xmlUrl="https://writings.stephenwolfram.com/feed/"/>
