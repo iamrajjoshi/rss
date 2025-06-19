@@ -14,11 +14,10 @@
 	<outline text="Newsletter" title="Newsletter">
 		<outline text="Antonio’s Substack" title="Antonio’s Substack" description="" type="rss" version="RSS" htmlUrl="https://anmonteiro.substack.com/" xmlUrl="https://anmonteiro.substack.com/feed"/>
 		<outline text="Architecture Notes" title="Architecture Notes" description="" type="rss" version="RSS" htmlUrl="https://architecturenotes.co/" xmlUrl="https://architecturenotes.co/rss/"/>
-		<outline text="ByteByteGo" title="ByteByteGo" description="" type="rss" version="RSS" htmlUrl="https://blog.bytebytego.com/" xmlUrl="https://blog.bytebytego.com/feed"/>
+		<outline text="ByteByteGo Newsletter" title="ByteByteGo Newsletter" description="" type="rss" version="RSS" htmlUrl="https://blog.bytebytego.com/" xmlUrl="https://blog.bytebytego.com/feed"/>
 		<outline text="Coding Challenges" title="Coding Challenges" description="" type="rss" version="RSS" htmlUrl="https://codingchallenges.substack.com/" xmlUrl="https://codingchallenges.substack.com/feed"/>
 		<outline text="NetNewsWire" title="NetNewsWire" description="" type="rss" version="RSS" htmlUrl="https://netnewswire.blog/" xmlUrl="https://netnewswire.blog/feed.json"/>
 		<outline text="Snowflair" title="Snowflair" description="" type="rss" version="RSS" htmlUrl="https://lewisg.substack.com/" xmlUrl="https://lewisg.substack.com/feed"/>
-		<outline text="The Palindrome" title="The Palindrome" description="" type="rss" version="RSS" htmlUrl="https://thepalindrome.org/" xmlUrl="https://thepalindrome.org/feed"/>
 		<outline text="The Pragmatic Engineer" title="The Pragmatic Engineer" description="" type="rss" version="RSS" htmlUrl="https://newsletter.pragmaticengineer.com/" xmlUrl="https://newsletter.pragmaticengineer.com/feed"/>
 	</outline>
 	<outline text="Personal Blogs" title="Personal Blogs">
@@ -30,14 +29,12 @@
 		<outline text="Andrej Karpathy blog" title="Andrej Karpathy blog" description="" type="rss" version="RSS" htmlUrl="http://karpathy.github.io/" xmlUrl="https://karpathy.github.io/feed.xml"/>
 		<outline text="Andrew Healey's Blog" title="Andrew Healey's Blog" description="" type="rss" version="RSS" htmlUrl="https://healeycodes.com/" xmlUrl="https://healeycodes.com/feed.xml"/>
 		<outline text="Distributed Thoughts" title="Distributed Thoughts" description="" type="rss" version="RSS" htmlUrl="https://distributedthoughts.com/" xmlUrl="https://distributedthoughts.com/feed/"/>
-		<outline text="In The Margins: Mike's blog" title="In The Margins: Mike's blog" description="" type="rss" version="RSS" htmlUrl="https://mikegrindle.com/" xmlUrl="https://mikegrindle.com/feed.xml"/>
 		<outline text="iRi" title="iRi" description="" type="rss" version="RSS" htmlUrl="https://jerf.org/iri/" xmlUrl="http://jerf.org/iri/rss.xml"/>
 		<outline text="Irrational Exuberance" title="Irrational Exuberance" description="" type="rss" version="RSS" htmlUrl="https://lethain.com/" xmlUrl="https://lethain.com/feeds/"/>
 		<outline text="Julia Evans" title="Julia Evans" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://jvns.ca/atom.xml"/>
 		<outline text="julian.digital" title="julian.digital" description="" type="rss" version="RSS" htmlUrl="https://julian.digital/" xmlUrl="https://julian.digital/feed/"/>
 		<outline text="Ken Shirriff's blog" title="Ken Shirriff's blog" description="" type="rss" version="RSS" htmlUrl="http://www.righto.com/" xmlUrl="https://www.righto.com/feeds/posts/default"/>
 		<outline text="Lee Byron / til" title="Lee Byron / til" description="" type="rss" version="RSS" htmlUrl="https://leebyron.com/til/" xmlUrl="https://leebyron.com/til/feed.xml"/>
-		<outline text="Maggie Appleton" title="Maggie Appleton" description="" type="rss" version="RSS" htmlUrl="https://maggieappleton.com/" xmlUrl="https://maggieappleton.com/rss.xml"/>
 		<outline text="Marcus' Blog" title="Marcus' Blog" description="" type="rss" version="RSS" htmlUrl="https://mbuffett.com/posts/" xmlUrl="https://mbuffett.com/posts/index.xml"/>
 		<outline text="Notes on software development" title="Notes on software development" description="" type="rss" version="RSS" htmlUrl="http://notes.eatonphil.com/" xmlUrl="https://notes.eatonphil.com/rss.xml"/>
 		<outline text="Stephen Wolfram Writings" title="Stephen Wolfram Writings" description="" type="rss" version="RSS" htmlUrl="https://writings.stephenwolfram.com/" xmlUrl="https://writings.stephenwolfram.com/feed/"/>
@@ -62,8 +59,6 @@
 		<outline text="CGP Grey" title="CGP Grey" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w"/>
 		<outline text="Code Bullet" title="Code Bullet" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3QhIYukixgh5VVpKHH9Q"/>
 		<outline text="Computerphile" title="Computerphile" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA"/>
-		<outline text="Fireship" title="Fireship" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"/>
-		<outline text="Kurzgesagt – In a Nutshell" title="Kurzgesagt – In a Nutshell" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q"/>
 		<outline text="Mark Rober" title="Mark Rober" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg"/>
 		<outline text="Sebastian Lague" title="Sebastian Lague" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmtyQOKKmrMVaKuRXz02jbQ"/>
 		<outline text="Stuff Made Here" title="Stuff Made Here" description="" type="rss" version="RSS" htmlUrl="https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCj1VqrHhDte54oLgPG4xpuQ"/>
